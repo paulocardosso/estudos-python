@@ -1,2 +1,2 @@
-# estudos-python
-Projetos para aprendizado de Python
+# Estudos Python
+Todos os Meus Projetos para aprendizado de Python - DIO + Curso em Video
